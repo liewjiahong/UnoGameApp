@@ -1,0 +1,31 @@
+.navbar-default {
+  background-color:black;
+  background-image: none;
+  background-repeat: no-repeat;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+h2 {
+  color: snow;
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-size: 40px;
+}
+
+h3 {
+  color: honeydew;
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-size: 20px;
+}
+
+h4 {
+  color: white;
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+.panel-default > .panel-heading {
+  background: red;
+}
+
